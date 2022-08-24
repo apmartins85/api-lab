@@ -7,7 +7,7 @@ on:
 
 jobs:
   bash:
-    runs-on: ubuntu-latest
+    rruns-on: self-hosted
     steps:
       - name: Sing
         run: |
